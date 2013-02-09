@@ -8,7 +8,9 @@ A plugin using the features of [hhhhold!](http://hhhhold.com)
 * Can store images locally to improve development speed and limit requests
 * Can insert any sized image tag with dummy image
 * Can browse and insert locally stored hhhhold.com images
-* Sizes, Formats,  can all be configured in the settings
+* Sizes and format can be configured in the settings
+
+Based very heavily on the [Sublime-Placehold.it](https://github.com/SubZane/Sublime-Placehold.it) plugin. Thanks, [SubZane](https://github.com/SubZane)
 
 ### Version 1.0
 * Initial release
