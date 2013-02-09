@@ -1,0 +1,8 @@
+{
+    "hh_size": "400x300",
+    "hh_default_sizes": "400x300, 800x600, 220x100, 70x70",
+    "hh_format": "jpg",        // jpg, gif, or png
+    "hh_localimages": false,   // If true, images will download into the hh_imagepath
+                               // and a relative path is inserted
+    "hh_imagepath": "images/"  // Path where cached images are saved.
+}

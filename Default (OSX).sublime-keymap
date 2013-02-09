@@ -1,0 +1,3 @@
+[
+	{ "keys": ["h", "h", "tab"], "command": "insert_image" }
+]
